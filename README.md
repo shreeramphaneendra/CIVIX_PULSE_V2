@@ -4,4 +4,3 @@
 ####
 Hello Hello He
 Hello Hello
-Hello He
